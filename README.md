@@ -1,5 +1,5 @@
 # 2021_02_My_AI_Teaching_Assistant_Work
-2021 artificial intelligence ta work
+2021 Computer Science artificial intelligence TA work
 
 This is homework that I made when I was AI TA.
 
